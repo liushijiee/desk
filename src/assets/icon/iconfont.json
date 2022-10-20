@@ -1,0 +1,37 @@
+{
+  "id": "3718746",
+  "name": "desk",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "592835",
+      "name": "baidu",
+      "font_class": "baidu",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "1244207",
+      "name": "知乎",
+      "font_class": "zhihu",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "4937000",
+      "name": "github-fill",
+      "font_class": "github-fill",
+      "unicode": "e885",
+      "unicode_decimal": 59525
+    },
+    {
+      "icon_id": "6808513",
+      "name": "Bing",
+      "font_class": "Bing",
+      "unicode": "eddb",
+      "unicode_decimal": 60891
+    }
+  ]
+}
